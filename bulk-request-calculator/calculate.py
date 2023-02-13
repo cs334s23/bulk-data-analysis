@@ -8,7 +8,7 @@ import os
 load_dotenv()
 
 
-FIRST_YEAR = 1990
+FIRST_YEAR = 1900
 CUR_YEAR = 2023
 
 
